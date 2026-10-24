@@ -1,87 +1,62 @@
 # Oriviro
 
-Oriviro is an Android daily photo memories app currently in testing.
+**Daily Photo Memories for Android — Currently in Testing**
 
-It is designed to help users rediscover meaningful photographs connected to the current day and previous years, without having to scroll endlessly through an entire photo library.
+Oriviro is an Android daily photo memories app designed to help users rediscover meaningful photographs connected to the current day and previous years, without endlessly scrolling through a full gallery.
 
-## Current focus
+## What It Does
 
-Oriviro focuses on a calm and private daily memory experience.
+- Daily photo memories connected to the current date and previous years
+- Fullscreen viewing with zoom controls
+- Explore additional daily memories where available
+- Export or preserve selected memory photos where supported
+- Local-first daily memory experience
+- No required account or mandatory cloud service
 
-Current functionality includes:
+## Testing & Status
 
-- Daily photo memories
-- Photos connected to the current date
-- Fullscreen viewing
-- Zoom for individual memories
-- Exploring additional memories where available
-- Exporting or preserving selected memories
-- Local-first experience
-- No unnecessary account requirement
-- No mandatory cloud service
+Oriviro is currently in testing and being prepared for public release.
 
-## Who Oriviro is for
+Current testing focuses on the daily memory experience, local photo access, fullscreen viewing, zoom behavior, export workflows and overall stability.
 
-Oriviro is designed for:
+## Privacy Approach
 
-- People with years of personal photos on their device
-- Users who enjoy revisiting meaningful memories
-- People who prefer private, local-first tools
-- Users who want a focused alternative to browsing an entire gallery
-- Anyone who wants to preserve selected moments intentionally
+- **Local photo experience:** Designed around personal photographs already available on the user's device.
+- **No account required:** No forced TSI Dev Studio registration or email account.
+- **No mandatory cloud:** Core use does not require a cloud service.
+- **No advertising profile:** Oriviro does not require the creation of an advertising profile.
+- **User control:** Users decide which supported memories to view, preserve or export.
 
-## In testing
+## Public Documentation
 
-Oriviro is currently being prepared for public release.
+| Document | Purpose |
+| --- | --- |
+| [Getting Started](docs/getting-started.md) | Public setup and usage guidance |
+| [Product Guide](product-guide.md) | Public product guidance |
+| [Support](SUPPORT.md) | Support and official contact channels |
+| [Changelog](CHANGELOG.md) | Public product changes |
 
-Current testing focuses on:
+## Official Links
 
-- Daily memory discovery
-- Photo selection and viewing
-- Fullscreen experience
-- Zoom behavior
-- Export flow
-- Stability and usability
-- Local photo access
+- Oriviro: https://tsidevstudio.com/apps/oriviro
+- Privacy Policy: https://tsidevstudio.com/privacy/oriviro
+- TSI Dev Studio: https://tsidevstudio.com
+- Blog: https://blog.tsidevstudio.com
 
-Oriviro is not yet publicly released on Google Play.
+## About This Repository
 
-## Privacy approach
+This repository is for public product information, documentation, verification links and release-related resources.
 
-Oriviro is designed around personal photos already under the user's control.
+Unless explicitly stated otherwise, the application source code is not published here.
 
-The app focuses on:
+Internal architecture, photo-indexing implementation and other private implementation details are intentionally excluded from public documentation.
 
-- Local photo access
-- No unnecessary account requirement
-- No mandatory cloud service
-- Minimal data exposure
-- No advertising profile
-- User-controlled exports
-- Clear ownership of personal memories
+## Developer & Contact
 
-## TSI Dev Studio
+**TSI Dev Studio**
 
-Oriviro is developed by TSI Dev Studio, an independent Android developer focused on practical, privacy-conscious and local-first mobile apps.
+Independent Android developer focused on practical, privacy-conscious and local-first apps.
 
-Official website:
-
-https://tsidevstudio.com
-
-Oriviro page:
-
-https://tsidevstudio.com/apps/oriviro
-
-Privacy Policy:
-
-https://tsidevstudio.com/privacy/oriviro
-
-Other projects include Xsilent, Nullun, MicutVault, AnonyPic, Seabil, HEZX, Annum, Zizly, Zekro, Mission563 and Group Decision.
-
-## Contact
-
-General: contact@tsidevstudio.com
-
-App support: support@tsidevstudio.com
-
-Press & media: press@tsidevstudio.com
+- General: contact@tsidevstudio.com
+- App support: support@tsidevstudio.com
+- Press & media: press@tsidevstudio.com
